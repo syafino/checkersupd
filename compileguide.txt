@@ -1,0 +1,2 @@
+for update_board.cgi = g++ -Wall -O2 -o update_board.cgi update_board.cpp checkers.cpp
+for checkers.cgi = g++ -Wall -O2 -o checkers.cgi checkers.cpp main.cpp
